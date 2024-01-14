@@ -1,0 +1,27 @@
+.shop{
+    display: flex;
+    margin-left: 120px;
+    
+}
+
+.products{
+    width: 70%;
+    height: 500px; 
+    border-right: 1px solid gray;
+}
+
+.revew{
+    margin-left: 20px;
+    
+}
+
+.revew button{
+    width: 150px;
+    height: 30px;
+    font-size: 18px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 100px;
+}
